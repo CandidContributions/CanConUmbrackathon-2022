@@ -1,8 +1,10 @@
 # Hacktoberfest Umbrackathon - Oct 2022
 
-## Hullo ...
+![Umbrackathon Logo](umbrackathon_logo.png)
 
-... and welcome to the CanCon and friends' Hacktoberfest Umbraco hackathon! The full schedule and sign up details are on our website:
+## Hullo!
+
+And welcome to the CanCon and friends' Hacktoberfest Umbraco hackathon! The full schedule and sign up details are on our website:
 
 🎃 https://candidcontributions.com/umbrackathon-2022 🎃
 
