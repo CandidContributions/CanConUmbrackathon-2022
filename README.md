@@ -1,17 +1,21 @@
-# CanCon and friends' Hacktoberfest Umbrackathon - Oct 2022
+# Hacktoberfest Umbrackathon - Oct 2022
 
-## Hullo and Welcome!
+## Hullo ...
 
-The full schedule and sign up details are on our website 🎃 https://candidcontributions.com/umbrackathon-2022 🎃.
+... and welcome to the CanCon and friends' Hacktoberfest Umbraco hackathon! The full schedule and sign up details are on our website:
+
+🎃 https://candidcontributions.com/umbrackathon-2022 🎃
 
 ## Contributing to the Guestbook
 
 We would love everyone who joined us at any point on Zoom or on Discord to sign our guestbook. It's a good way to warm up those pull request skills!
 
+In short, you need to create a PR adding a new file in the `Guestbook` folder called `YourGitHubUsername.md` with the contents as shown below. But here's more detailed instructions in case you need them: 
+
 - Navigate to the `Guestbook` folder in this repository
 - Click the `Add file` button and select to `Create a new file`. You will be informed that this will create a new branch in a fork in your GitHub account, which is exactly what you want to do, thank you GitHub!
 - Name the file `YourGitHubUsername.md`
-- Add the required information as explained below, or copy the contents of `Guestbook/0-template.md`
+- Add the required information as shown below, or copy the contents of `Guestbook/0-template.md`
 - Click the 'Propose New File' button
 - Follow GitHub's instructions to create a pull request
 
