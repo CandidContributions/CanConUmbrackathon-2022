@@ -1,8 +1,6 @@
 # Hacktoberfest Umbrackathon - Oct 2022
 
-## Hullo!
-
-And welcome to the CanCon and friends' Hacktoberfest Umbraco hackathon.
+Hullo and welcome to the CanCon and friends' Hacktoberfest Umbraco hackathon!
 
 The full schedule and sign up details are on our website:
 
