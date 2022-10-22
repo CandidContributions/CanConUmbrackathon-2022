@@ -8,11 +8,11 @@ The full schedule and sign up details are on our website:
 
 🎃 https://candidcontributions.com/umbrackathon-2022 🎃
 
-## Contributing to the Guestbook
+## Contributing to our Guestbook
 
-We would love everyone who joined us at any point on Zoom or on Discord to sign our guestbook. It's a good way to warm up those pull request skills!
+We would love everyone who joined us at any point on Zoom or on Discord to sign [our 'pumpkin patch' Guestbook](https://candidcontributions.com/umbrackathon-2022/guestbook). It's a good way to warm up those pull request skills!
 
-In short, you need to create a pull request adding a new file in the `Guestbook` folder called `YourGitHubUsername.md` with the contents as shown below. But here's more detailed instructions in case you need them: 
+To sign it, in short, you need to create a pull request adding a new file in the `Guestbook` folder called `YourGitHubUsername.md` with the contents as shown below. But here are more detailed instructions in case needed: 
 
 - Navigate to the `Guestbook` folder in this repository
 - Click the `Add file` button and select to `Create a new file`. You will be informed that this will create a new branch in a fork in your GitHub account, which is exactly what you want to do, thank you GitHub!
