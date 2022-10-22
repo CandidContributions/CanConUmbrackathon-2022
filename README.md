@@ -8,7 +8,7 @@ The full schedule and sign up details are on our website:
 
 🎃 https://candidcontributions.com/umbrackathon-2022 🎃
 
-## Contributing to our Guestbook
+## Signing the Guestbook
 
 We would love everyone who joined us at any point on Zoom or on Discord to sign [our 'pumpkin patch' Guestbook](https://candidcontributions.com/umbrackathon-2022/guestbook). It's a good way to warm up those pull request skills!
 
